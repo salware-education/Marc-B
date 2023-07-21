@@ -1,2 +1,27 @@
 # Marc-B
 Desarrollo realizado por encargo de Fundación Salware para disponer de un sistema de registro de títulos y credenciales en Blockchain, con extensión a otros productos en versiones B2B y B2C
+
+
+
+Se trata de ub desarrollo privado destinado a realizar registro de contenidos en una blockchain pública, manteniendo disponibles los contenidos en formato encriptado de forma descentralizada.
+En el desarrollo de esta herramienta se tendrá en cuenta el cumplimiento de cualquier requisito legal exigible para su uso y comercialización al público en general y también cualquier requisito que exija el derecho administrativo y comercial con empresas y entidades. Reglamento General de Protección de Datos personales (GDPR) y cualquier otra ley o reglamento aplicable en el ámbito europeo referente a la sostenibilidad, cuidado del medio ambiente, derechos de integración, accesibilidad y cuantos pudieran ser de aplicación.
+Durante el desarrollo es de vital importancia garantizar el cumplimiento de los reglamentos y leyes aplicables tanto para el consumidor como para la relación comercial entre empresas. Para ello, es esencial adoptar prácticas que aseguren la protección de los derechos y la privacidad de los usuarios finales. Esto implica cumplir con regulaciones relacionadas con la protección de datos personales, la seguridad de la información y la transparencia en las prácticas comerciales.
+Se respetaran en todo momento aspectos legales, como la propiedad intelectual, las licencias de software utilizadas y la protección de la propiedad y la confidencialidad de los propios desarrollos y los datos comerciales o personales.
+El cumplimiento de estas regulaciones y leyes no solo protege los intereses de los usuarios y clientes, sino que también permite mantener una relación de confianza entre las personas involucradas en el desarrollo y Fundación Salware, como receptor y propietario final de los trabajos y desarrollos realizados, así como el producto final para su comercialización.
+La aceptación y estricto cumplimiento por las partes de este acuerdo previo evitará potenciales litigios y conflictos legales, permitiendo un desarrollo de software ético, seguro y exitoso en el marco de las normativas vigentes.
+Para el desarrollo de los diferentes módulos necesarios para obtener el producto software final, así como los smart contracts necesarios, se utilizarán los estándares aceptados en la elaboración de código de programación profesional, mantenible y revisable que se corresponden con la tipología de lenguajes de programación  utilizados y las mejores prácticas y guías de estilo de la comunidad de desarrolladores. El objetivo principal es mantener la consistencia, la legibilidad y la calidad del código para facilitar la colaboración y el desarrollo exitoso del proyecto.
+Las  pautas generales y buenas prácticas incluyen:
+1. Convenciones de nomenclatura: Utilizar nombres de variables, funciones y clases descriptivos y significativos. Seguir un estilo de nomenclatura consistente para mejorar la legibilidad y comprensión del código.
+2. Indentación y formato: Mantener una estructura de código bien organizada con una correcta indexación y formatos para facilitar la lectura y comprensión del código.
+3. Comentarios: Incluir comentarios claros y concisos para explicar partes más complejas del código, mejorar la documentación y facilitar la revisión por otros desarrolladores.
+4. Modularidad: Dividir el código en módulos o funciones más pequeñas y reutilizables para facilitar el mantenimiento y la escalabilidad.
+5. Pruebas unitarias: Escribir pruebas unitarias para validar el correcto funcionamiento del código y detectar posibles errores o cambios no deseados en futuras actualizaciones.
+6. Control de versiones: Utilizar sistemas de control de versiones como Git para realizar un seguimiento de los cambios en el código, facilitar la colaboración en equipo y revertir cambios si es necesario.
+7. Evitar duplicación de código: Buscar oportunidades para refactorizar y eliminar código duplicado, lo que mejora la eficiencia y la facilidad de mantenimiento.
+8. Seguridad: Considerar las mejores prácticas de seguridad para prevenir vulnerabilidades y ataques, como el manejo adecuado de datos de entrada y la protección contra inyecciones de código.
+9. Consistencia en el estilo: Adoptar y mantener un estilo de codificación consistente en todo el proyecto, lo que facilita la colaboración y la lectura del código por parte de otros desarrolladores.
+10. Revisión de código: Fomentar la revisión de código entre los miembros del equipo para garantizar la calidad y detectar posibles mejoras o errores antes de la implementación final.
+11. Smart contracts: Para este caso en particular es imprescindible cuidar de forma precisa las funciones, operaciones y llamadas para optimizar al máximo el consumo de gas en blockchains privadas, manteniendo en todo momento la compatibilidad o equivalencia para su despliegue en cadenas EVM compatibles.
+Los desarrolladores autorizados en este repositorio deberán notificar expresamente su conformidad con lo expresado en este Readme file, o en su caso esgrimiendo sus dudas o inconvenientes, para acordar su resolución antes de continuar con el proyecto.
+En caso que no se diera la plena conformidad por todas las partes implicadas se cancelará cualquier acuerdo previo, dejando sin efecto el desarrollo de este proyecto mientras que el buen acuerdo y conformidad de las partes no sea firme y completa.
+
